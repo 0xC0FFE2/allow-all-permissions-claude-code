@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(yarn:*)",
+      "Bash(pnpm:*)",
+      "Bash(cp:*)",
+      "Bash(rm:*)",
+      "Bash(mv:*)",
+      "Bash(mkdir:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)",
+      "Bash(cd:*)",
+      "Bash(touch:*)",
+      "Bash(echo:*)"
+    ],
+    "deny": []
+  }
+}
